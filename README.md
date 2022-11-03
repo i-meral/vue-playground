@@ -1,4 +1,4 @@
-# default
+# vue-playground
 
 ## Project setup
 
@@ -42,4 +42,3 @@ pnpm build
 ### Customize configuration
 
 See [Configuration Reference](https://vitejs.dev/config/).
-# vue-playground
